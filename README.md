@@ -1,4 +1,4 @@
-# urlshorten
+# urlshorten (http://yige.info/)
 A simple url shorten server, support HTTP method: `GET` and `POST`
 
 ## Install
