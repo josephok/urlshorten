@@ -1,0 +1,22 @@
+{
+  "name": "urlshorten",
+  "version": "0.0.1",
+  "description": "url shorten service",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "request": "^2.55.0",
+    "mongoose": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "shorten"
+  ],
+  "author": "Joseph <josephok@qq.com>",
+  "license": "MIT"
+}
